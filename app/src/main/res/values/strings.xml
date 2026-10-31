@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gmail Farmer</string>
+    <string name="app_tagline">Google account review</string>
+    <string name="privacy_disclosure">Only accounts visible to Android are shown. No mail, passwords, tokens or account data leave this device.</string>
+</resources>
